@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel
 - 👨🏿‍🏫 Atualmente sou estudando e fazendo um curso no Senac
-- 🧑🏿‍💻 Estou mechendo com HTML, JavaScript, CSS, Pyton
+- 🧑🏿‍💻 Estou mechendo com HTML, JavaScript, CSS
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
 
