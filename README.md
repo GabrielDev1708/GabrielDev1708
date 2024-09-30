@@ -1,4 +1,4 @@
-# Hi, Gabriel Here 🧊💤
+# Hi, Gabriel Here :purple_heart:💤
 - 👨🏿‍🏫 Atualmente sou estudando e fazendo um curso no Senac
 - 🧑🏿‍💻 Estou mechendo com HTML, JavaScript, CSS
 - 📽️ Procuro colaborar no desenvolvimento de projetos
