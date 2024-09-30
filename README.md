@@ -22,7 +22,7 @@
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=GabrielDev1708&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
- [![Gabriel github stats](https://bad-apple-github-readme.vercel.app/api?username=DocenteDevRafael&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Gabriel github stats](https://bad-apple-github-readme.vercel.app/api?username=GabrielDev1708&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 [![Docente Gabriel current streak](https://streak-stats.demolab.com/?user=GabrielDev1708&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
