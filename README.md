@@ -1,7 +1,7 @@
 # Hi, Gabriel Here :purple_heart:💤
-- 👨🏿‍🏫  Atualmente estou curssando a Faculdade de Ciência da Computação
-- 👨🏿‍🏫 Atualmente sou estudando e fazendo um curso no Senac
-- 🧑🏿‍💻 Estou mechendo com HTML, JavaScript, CSS
+- 👨🏿‍🏫 Atualmente estou cursando a Faculdade de Ciência da Computação
+- 👨🏿‍🏫 Sou formado no curso de Analise e Desenvolvimento de Sistemas no SENAC
+- 🧑🏿‍💻 Estou mechendo com HTML, JavaScript, CSS e Pyton
 - 📽️ Procuro colaborar no desenvolvimento de projetos
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
 
